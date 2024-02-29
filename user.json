@@ -1,0 +1,72 @@
+[
+  {
+    "Firstname": "Mohammed",
+    "Lastname": "Ahmed",
+    "Age": 28,
+    "University": "Cairo University",
+    "Major": "Computer Engineering"
+  },
+  {
+    "Firstname": "Fatima",
+    "Lastname": "Mohammed",
+    "Age": 25,
+    "University": "Al-Azhar University",
+    "Major": "Medicine"
+  },
+  {
+    "Firstname": "Youssef",
+    "Lastname": "Ali",
+    "Age": 30,
+    "University": "Mansoura University",
+    "Major": "Fine Arts"
+  },
+  {
+    "Firstname": "Layla",
+    "Lastname": "Ahmed",
+    "Age": 22,
+    "University": "Ain Shams University",
+    "Major": "Psychology"
+  },
+  {
+    "Firstname": "Ali",
+    "Lastname": "Ahmed",
+    "Age": 26,
+    "University": "Cairo University",
+    "Major": "Business Administration"
+  },
+  {
+    "Firstname": "Reem",
+    "Lastname": "Mustafa",
+    "Age": 27,
+    "University": "Alexandria University",
+    "Major": "Languages and Translation"
+  },
+  {
+    "Firstname": "Sarah",
+    "Lastname": "Khaled",
+    "Age": 29,
+    "University": "Helwan University",
+    "Major": "Computer Science"
+  },
+  {
+    "Firstname": "Ahmed",
+    "Lastname": "Mahmoud",
+    "Age": 24,
+    "University": "Cairo University",
+    "Major": "Pharmacy"
+  },
+  {
+    "Firstname": "Maryam",
+    "Lastname": "Mohammed",
+    "Age": 31,
+    "University": "Alexandria University",
+    "Major": "Law"
+  },
+  {
+    "Firstname": "Omar",
+    "Lastname": "Ahmed",
+    "Age": 23,
+    "University": "Ain Shams University",
+    "Major": "Civil Engineering"
+  }
+]

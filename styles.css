@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'Segoe UI';
+  src: url('./Font/segoeuib.ttf') format('truetype');
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  scroll-behavior: smooth; 
+
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+
+
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 13.6px 22px;
+  box-shadow: 0px 3px 6px #00000029;
+  position: fixed;
+  width: 100%;
+
+}
+
+table {
+  margin: 60px 45px;
+  border-collapse: collapse;
+  color: #245A81;
+  border-color: #000000;
+  
+}
+
+
+tr:nth-child(even) {
+  background-color: #00000029;
+}
+
+
+.content-table {
+  width: 100%;
+  table-layout: fixed;
+  padding: 19px 24px;
+  font-size: 20px;
+  text-align: left;
+}
+
+td {
+  padding: 19px 24px;
+}
+
+th {
+  background: #245A81 0% 0% no-repeat padding-box;
+  padding: 19px 24px;
+  color: white;
+}
+span{
+  margin-bottom: 20px;
+}
+.body-content{
+  padding-top: 70px;
+}
